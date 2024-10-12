@@ -5,4 +5,4 @@ Includes a Map and Bing Maps API
 Lybraries: pandas, geopy.distance, requests, folium 
 
 # Solution
-Access the complete code [here](Distancias.ipynb)
+Access the complete code [here](distancias.ipynb)
